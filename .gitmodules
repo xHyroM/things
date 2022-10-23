@@ -1,3 +1,9 @@
 [submodule "packages/okkkkkkkkkk-annihilation-mc-plugin"]
 	path = packages/okkkkkkkkkk-annihilation-mc-plugin
 	url = https://github.com/xhyrom-utils/okkkkkkkkkk-annihilation.git
+[submodule "packages/typing-test-germany-words-preterite"]
+	path = packages/typing-test-germany-words-preterite
+	url = https://github.com/xHyroM/typing-test.git
+[submodule "packages/xeon"]
+	path = packages/xeon
+	url = https://github.com/xHyroM/xeon.git
