@@ -7,3 +7,87 @@
 [submodule "packages/xeon"]
 	path = packages/xeon
 	url = https://github.com/xHyroM/xeon.git
+[submodule "packages/amonger"]
+	path = packages/amonger
+	url = https://github.com/xHyroM/amonger.git
+[submodule "packages/API-Images"]
+	path = packages/API-Images
+	url = https://github.com/xHyroM/API-Images.git
+[submodule "packages/BeautifulCSS"]
+	path = packages/BeautifulCSS
+	url = https://github.com/xHyroM/BeautifulCSS.git
+[submodule "packages/benchmarks"]
+	path = packages/benchmarks
+	url = https://github.com/xHyroM/benchmarks.git
+[submodule "packages/bun"]
+	path = packages/bun
+	url = https://github.com/xHyroM/bun.git
+[submodule "packages/bun-discord-bot"]
+	path = packages/bun-discord-bot
+	url = https://github.com/xHyroM/bun-discord-bot.git
+[submodule "packages/bun-utilities"]
+	path = packages/bun-utilities
+	url = https://github.com/xHyroM/bun-utilities.git
+[submodule "packages/cf-workers-uploader"]
+	path = packages/cf-workers-uploader
+	url = https://github.com/xHyroM/cf-workers-uploader.git
+[submodule "packages/ComputerCraft-API"]
+	path = packages/ComputerCraft-API
+	url = https://github.com/xHyroM/ComputerCraft-API.git
+[submodule "packages/Counter"]
+	path = packages/Counter
+	url = https://github.com/xHyroM/Counter.git
+[submodule "packages/covid19-stats"]
+	path = packages/covid19-stats
+	url = https://github.com/xHyroM/covid19-stats.git
+[submodule "packages/denyard"]
+	path = packages/denyard
+	url = https://github.com/xHyroM/denyard.git
+[submodule "packages/DirectLinks"]
+	path = packages/DirectLinks
+	url = https://github.com/xHyroM/DirectLinks.git
+[submodule "packages/Emojis"]
+	path = packages/Emojis
+	url = https://github.com/xHyroM/Emojis.git
+[submodule "packages/exam-solvers"]
+	path = packages/exam-solvers
+	url = https://github.com/xHyroM/exam-solvers.git
+[submodule "packages/GCommands"]
+	path = packages/GCommands
+	url = https://github.com/xHyroM/GCommands.git
+[submodule "packages/github-bucket"]
+	path = packages/github-bucket
+	url = https://github.com/xHyroM/github-bucket.git
+[submodule "packages/hacktoberfest"]
+	path = packages/hacktoberfest
+	url = https://github.com/xHyroM/hacktoberfest.git
+[submodule "packages/hivenbot"]
+	path = packages/hivenbot
+	url = https://github.com/xHyroM/hivenbot.git
+[submodule "packages/HostFlowDetector"]
+	path = packages/HostFlowDetector
+	url = https://github.com/xHyroM/HostFlowDetector.git
+[submodule "packages/hykord"]
+	path = packages/hykord
+	url = https://github.com/xHyroM/hykord.git
+[submodule "packages/hypilus"]
+	path = packages/hypilus
+	url = https://github.com/xHyroM/hypilus.git
+[submodule "packages/is-img"]
+	path = packages/is-img
+	url = https://github.com/xHyroM/is-img.git
+[submodule "packages/leetcode"]
+	path = packages/leetcode
+	url = https://github.com/xHyroM/leetcode.git
+[submodule "packages/LobbyEffects"]
+	path = packages/LobbyEffects
+	url = https://github.com/xHyroM/LobbyEffects.git
+[submodule "packages/mashe"]
+	path = packages/mashe
+	url = https://github.com/xHyroM/mashe.git
+[submodule "packages/mcsrv-but-ts"]
+	path = packages/mcsrv-but-ts
+	url = https://github.com/xHyroM/mcsrv-but-ts.git
+[submodule "packages/message-scraper"]
+	path = packages/message-scraper
+	url = https://github.com/xHyroM/message-scraper.git
